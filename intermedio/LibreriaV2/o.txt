@@ -1,0 +1,15 @@
+ISBN: -904-448-490-9 Titulo: Saltamontes las Perros  Autor: Gloria Machado precio: 79,14 €
+ISBN: -014-094-396-3 Titulo: Laguna con Limon Autor: Antonio Machado precio: 33,18 €
+ISBN: -448-290-822-3 Titulo: Paredes el Saltamontes  Autor: Gloria Machado precio: 87,63 €
+ISBN: -786-314-688-5 Titulo: Campo la Lapiz  Autor: Antonio Fuertes precio: 78,56 €
+ISBN: -547-636-369-2 Titulo: Paredes de Laguna  Autor: Gloria Machado precio: 57,57 €
+ISBN: -924-256-134-7 Titulo: Laguna de Campo  Autor: Antonio Machado precio: 52,41 €
+ISBN: -173-677-516-4 Titulo: Campo el Paredes  Autor: Antonio Fuertes precio: 92,32 €
+ISBN: -814-160-580-4 Titulo: Campo con Campo  Autor: Antonio Machado precio: 86,10 €
+ISBN: -516-322-072-1 Titulo: Aceras sin Laguna  Autor: Antonio Machado precio: 46,47 €
+ISBN: -433-995-034-0 Titulo: Gatos la Sol  Autor: Antonio Machado precio: 81,79 €
+ISBN: -801-343-665-2 Titulo: Lapiz sin Lapiz  Autor: Antonio Machado precio: 44,86 €
+ISBN: -755-860-911-2 Titulo: Paredes los Luna  Autor: Antonio Machado precio: 59,09 €
+ISBN: -730-883-060-6 Titulo: Sol de Campo  Autor: Gloria Machado precio: 67,71 €
+ISBN: -916-946-467-4 Titulo: Laguna de Luna  Autor: Gloria Machado precio: 63,41 €
+ISBN: -373-331-408-1 Titulo: Luna sin Gatos  Autor: Gloria Fuertes precio: 95,90 €
